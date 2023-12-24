@@ -1,0 +1,1 @@
+RazorPay clone is developed using HTML CSS and Tailwind.
